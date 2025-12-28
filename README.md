@@ -1,4 +1,4 @@
-Markdown# TH - Text File Encryptor/Decryptor (v1.0)
+# TH - Text File Encryptor/Decryptor (v1.0)
 
 A simple, console-based tool to **encrypt** and **decrypt** text files (`.txt`) using strong **AES-256-GCM** authentication encryption, with key derivation via **PBKDF2-HMAC-SHA256**.
 
